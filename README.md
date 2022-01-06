@@ -161,21 +161,21 @@ We recommend to start with these examples:
 
 **Synthetic dataset: transfer analysis**
 
-<img src="README/README/pics/adaptively-transfer-analysis_varying_zdim.jpg" height="250">
+<img src="pics/adaptively-transfer-analysis_varying_zdim.jpg" height="250">
 
 
 ***
 
 **Synthetic dataset: multi-source analysis**
 
-<img src="README/pics/multi-source-analysis.jpg" height="280">
+<img src="pics/multi-source-analysis.jpg" height="280">
 <br/>
-<img src="README/pics/transfer-causal-table1.jpg" height="400">
+<img src="pics/transfer-causal-table1.jpg" height="400">
 
 ***
 
 **TWINS dataset**
 
-<img src="README/pics/twins-discrepancy-w.jpg" height="280">
+<img src="pics/twins-discrepancy-w.jpg" height="280">
 
 
