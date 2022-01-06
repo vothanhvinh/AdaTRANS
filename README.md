@@ -1,6 +1,8 @@
 # Adaptive Multi-Source Causal Inference from Observational Data
 Vo, T. V., Wei, P., Hoang, T. N., & Leong, T. Y. (2021). Adaptive Multi-Source Causal Inference. arXiv preprint arXiv:2105.14877. https://arxiv.org/pdf/2105.14877.pdf
 
+Please cite:
+
 ```
 @article{vo2021adaptive,
   title={Adaptive Multi-Source Causal Inference},
