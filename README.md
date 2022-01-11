@@ -174,14 +174,14 @@ We recommend to start with these examples:
 
 **Synthetic dataset: transfer analysis**
 
-<img src="pics/adaptively-transfer-analysis_varying_zdim.jpg" height="250">
+<img src="pics/adaptively-transfer-analysis_varying_zdim.jpg" height="220">
 
 
 ***
 
 **Synthetic dataset: multi-source analysis**
 
-<img src="pics/multi-source-analysis.jpg" height="280">
+<img src="pics/multi-source-analysis.jpg" height="220">
 <br/>
 <img src="pics/transfer-causal-table1.jpg" height="400">
 
