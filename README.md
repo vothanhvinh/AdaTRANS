@@ -26,7 +26,7 @@ Please cite:
 
 
 ## Requirements
-This package has been tested on:
+This code has been tested on:
 ```
 gpytorch==1.3.0
 pytorch==1.7.0+cu101
