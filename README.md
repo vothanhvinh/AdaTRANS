@@ -1,5 +1,5 @@
 ## Adaptive Multi-Source Causal Inference from Observational Data
-Vo, T. V., Wei, P., Hoang, T. N., & Leong, T. Y. (2022). Adaptive Multi-Source Causal Inference from Observational Data. The 31st ACM International Conference on Information and Knowledge Management (CIKM). https://arxiv.org/pdf/2105.14877.pdf
+Vo, T. V., Wei, P., Hoang, T. N., & Leong, T. Y. (2022). Adaptive Multi-Source Causal Inference from Observational Data. The 31st ACM International Conference on Information and Knowledge Management (CIKM). https://dl.acm.org/doi/pdf/10.1145/3511808.3557230
 
 Please cite:
 
